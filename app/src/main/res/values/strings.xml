@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResistorColorClock</string>
+    <string name="appwidget_text">ResistorColorClock</string>
+    <string name="_00_00" translatable="false">00:00</string>
+    <string name="current_time">Current time</string>
+    <string name="channel_name">Service start notification</string>
+    <string name="notification_title">ResistorColorClock</string>
+    <string name="notification_text">Clock tick service is started.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">抵抗カラー時計</string>
+    <string name="appwidget_text">抵抗カラー時計</string>
+    <string name="current_time">現在時刻</string>
+    <string name="channel_name">サービス開始通知</string>
+    <string name="notification_title">抵抗カラー時計</string>
+    <string name="notification_text">時計更新サービスを開始しました</string>
+</resources>

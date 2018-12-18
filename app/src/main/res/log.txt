@@ -1,0 +1,35 @@
+12-12 09:35:37.327 12242-12242/? I/art: Not late-enabling -Xcheck:jni (already on)
+12-12 09:35:37.611 12242-12242/com.example.minatsu.r_colorclock I/InstantRun: starting instant run server: is main process
+12-12 09:35:37.624 12242-12242/com.example.minatsu.r_colorclock D/R_ColorClockWidget: onUpdate
+12-12 09:35:37.624 12242-12242/com.example.minatsu.r_colorclock D/R_ColorClockWidget: onUpdate appWidgetId=10
+12-12 09:35:37.624 12242-12242/com.example.minatsu.r_colorclock D/Companion: updateAppWidget appWidgetId=10
+12-12 09:35:37.625 12242-12242/com.example.minatsu.r_colorclock D/Companion: Create New Runnable for 10
+12-12 09:35:37.636 12242-12242/com.example.minatsu.r_colorclock D/Companion: handler post
+12-12 09:35:37.637 12242-12242/com.example.minatsu.r_colorclock D/R_ColorClockWidget: onReceive context=android.app.ReceiverRestrictedContext@e627e3b intent=Intent { act=android.appwidget.action.APPWIDGET_UPDATE flg=0x10 cmp=com.example.minatsu.r_colorclock/.R_ColorClockWidget (has extras) }
+12-12 10:31:15.428 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 14.192ms for cause DisableMovingGc
+12-12 10:31:58.277 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 13.943ms for cause DisableMovingGc
+12-12 10:33:39.693 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 18.214ms for cause DisableMovingGc
+12-12 10:34:45.458 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 20.656ms for cause DisableMovingGc
+12-12 10:35:22.418 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 14.297ms for cause DisableMovingGc
+12-12 10:37:10.059 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 18.952ms for cause DisableMovingGc
+12-12 10:37:23.674 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 21.926ms for cause DisableMovingGc
+12-12 10:37:29.989 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 15.863ms for cause DisableMovingGc
+12-12 10:37:49.991 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 27.887ms for cause DisableMovingGc
+12-12 10:39:03.422 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 19.098ms for cause DisableMovingGc
+12-12 10:40:04.504 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 27.647ms for cause DisableMovingGc
+12-12 10:40:24.415 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 12.328ms for cause DisableMovingGc
+12-12 10:41:12.929 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 39.534ms for cause DisableMovingGc
+12-12 10:42:36.392 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 21.060ms for cause DisableMovingGc
+12-12 10:42:50.226 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 21.905ms for cause DisableMovingGc
+12-12 10:43:45.109 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 15.921ms for cause DisableMovingGc
+12-12 10:44:00.056 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 21.082ms for cause DisableMovingGc
+12-12 10:44:15.084 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 20.976ms for cause DisableMovingGc
+12-12 10:44:21.407 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 12.873ms for cause DisableMovingGc
+12-12 10:44:27.708 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 19.761ms for cause DisableMovingGc
+12-12 10:45:00.654 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 20.455ms for cause DisableMovingGc
+12-12 10:46:07.807 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 23.763ms for cause DisableMovingGc
+12-12 10:46:55.348 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 34.298ms for cause DisableMovingGc
+12-12 10:48:08.851 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 38.231ms for cause DisableMovingGc
+12-12 10:48:47.091 12242-12242/com.example.minatsu.r_colorclock I/art: WaitForGcToComplete blocked for 21.905ms for cause DisableMovingGc
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
