@@ -5,4 +5,4 @@
 電子工作を始めたけど、抵抗のカラーコードがまだ直感的に読めないんだよね～という方にオススメです。
 
 ## コンパイルのしかた
-[Run]->[Edit Configurations]を開き、Generalタブの「Launch」を「Nothing」にしてから、実行してください。
+[Run]->[Edit Configurations]を開き、Generalタブの「Launch」を「Nothing」にしてから、[Run]->[Run 'app']でエミュレータや実機に転送してください。その後、エミュレータや実機を操作してホーム画面にウィジェットを追加してください。
