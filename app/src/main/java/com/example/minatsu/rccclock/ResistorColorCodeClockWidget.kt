@@ -62,7 +62,7 @@ class ResistorColorCodeClockWidget : AppWidgetProvider() {
     class MyService : Service() {
         private val TAG = MyService::class.java.simpleName
         private val ACTION_START_MY_ALARM = "com.example.minatsu.r_colorclock.ResistorColorCodeClockWidget.MyService.ACTION_START_MY_ALARM"
-        private val mCol = arrayOf("#000000", "#880000", "#FF0000", "#FF7700", "#FFFF00", "#00EE00", "#0000FF", "#FF00FF", "#888888", "#FFFFFF")
+        private val mCol = arrayOf("#000000", "#760303", "#FF0000", "#FF8000", "#FFFF00", "#009900", "#0000FF", "#BF1DBF", "#999999", "#FFFFFF")
         private val mHandler = Handler()
         private val sdf = SimpleDateFormat("H:mm:ss")
         private var mScreenFlag = true

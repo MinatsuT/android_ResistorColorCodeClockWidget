@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ffd7a2"
+    android:background="#EAD4AC"
     android:padding="@dimen/widget_margin">
 
     <TextView
@@ -24,7 +24,7 @@
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="#ffffff"
-        android:textSize="48sp"
+        android:textSize="52sp"
         android:textStyle="bold|italic"
         tools:text="@string/_00_00" />
 
