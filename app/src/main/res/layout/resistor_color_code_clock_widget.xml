@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
+        android:layout_margin="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -19,12 +20,12 @@
         android:layout_marginBottom="8dp"
         android:contentDescription="current time"
         android:fontFamily="monospace"
-        android:gravity="center_vertical|center_horizontal"
+        android:gravity="bottom|center"
         android:text="@string/_00_00"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="#ffffff"
-        android:textSize="52sp"
+        android:textSize="54sp"
         android:textStyle="bold|italic"
         tools:text="@string/_00_00" />
 
